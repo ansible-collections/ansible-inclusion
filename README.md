@@ -8,7 +8,7 @@ If there are any questions, feel free to ask for clarifications in the discussio
 
 1. Start a GitHub Discussion in the [new collection review category](https://github.com/ansible-collections/ansible-inclusion/discussions/new?category=new-collection-reviews).  Please copy the following into your initial message:
 ```
-Two or three sentance description of your collection
+Two or three sentence description of your collection
 
 Ansible Galaxy: https://galaxy.ansible.com/NAMESPACE/COLLECTION
 GitHub: https://github.com/ORG/REPONAME
@@ -19,8 +19,8 @@ We meet [Collection Requirements](https://github.com/ansible-collections/overvie
 ```
 In case the repository is not on GitHub, please provide email addresses.
 
-2. Ensure any other maintainers of the collection are `@mentioned` in the discussion so they will recieve update
-3. Prompty reply to any questions
+2. Ensure any other maintainers of the collection are `@mentioned` in the discussion so they will receive update
+3. promptly reply to any questions
 
 ## Existing request
 
