@@ -1,13 +1,28 @@
 # ansible-inclusion
-Requests to include new collections into the ansible package.
+Requests to include new collections into the `ansible` package.
 
-All new collections submitted for inclusion must satisfy the [Collection Requirements](https://github.com/ansible-collections/overview/blob/main/collection_requirements.rst).
+We use GitHub's Discussion feature to track these requests.
+
+All new collections submitted for inclusion MUST satisfy the [Collection Requirements](https://github.com/ansible-collections/overview/blob/main/collection_requirements.rst).
 If there are any questions, feel free to ask for clarifications in the discussion described below and / or in the `#ansible-community` IRC channel.
 
-Add a new Discussion with the Category: `New collection review`.  Please include the following information:
+1. Start a GitHub Discussion in the [new collection review category](https://github.com/ansible-collections/ansible-inclusion/discussions/new?category=new-collection-reviews).  Please copy the following into your initial message:
+```
+Two or three sentence description of your collection
 
-* Link to the galaxy page for the collection and to the collection repository.
-* Any GitHub IDs that should be notified if there is an issue with the collection and the bug tracker has not yielded information.
-  In case the repository is not on GitHub, please provide email addresses.
-* Re-check that your collection satisfies the [Collection Requirements](https://github.com/ansible-collections/overview/blob/main/collection_requirements.rst).
-* Put a comment "The collection satisfies all the requirements and is ready for review" in the discussion.
+Ansible Galaxy: https://galaxy.ansible.com/NAMESPACE/COLLECTION
+GitHub: https://github.com/ORG/REPONAME
+Issues Tracker: https://github.com/ORG/REPONAME/issues
+GitHub Handles: 
+Is the collection part of Automation Hub: Yes/Soon/No
+We meet [Collection Requirements](https://github.com/ansible-collections/overview/blob/main/collection_requirements.rst): Yes/No
+```
+In case the repository is not on GitHub, please provide email addresses.
+
+2. Ensure any other maintainers of the collection are `@mentioned` in the discussion so they will receive update.
+3. Promptly reply to any questions.
+
+## Existing request
+
+* [New Collection reviews](https://github.com/ansible-collections/ansible-inclusion/discussions/categories/new-collection-reviews)
+* [Resolved requests](https://github.com/ansible-collections/ansible-inclusion/discussions/categories/resolved-reviews)
