@@ -3,7 +3,7 @@ Requests to include new collections into the `ansible` package.
 
 We use GitHub's Discussion feature to track these requests.
 
-All new collections submitted for inclusion must satisfy the [Collection Requirements](https://github.com/ansible-collections/overview/blob/main/collection_requirements.rst).
+All new collections submitted for inclusion MUST satisfy the [Collection Requirements](https://github.com/ansible-collections/overview/blob/main/collection_requirements.rst).
 If there are any questions, feel free to ask for clarifications in the discussion described below and / or in the `#ansible-community` IRC channel.
 
 1. Start a GitHub Discussion in the [new collection review category](https://github.com/ansible-collections/ansible-inclusion/discussions/new?category=new-collection-reviews).  Please copy the following into your initial message:
@@ -19,8 +19,8 @@ We meet [Collection Requirements](https://github.com/ansible-collections/overvie
 ```
 In case the repository is not on GitHub, please provide email addresses.
 
-2. Ensure any other maintainers of the collection are `@mentioned` in the discussion so they will receive update
-3. promptly reply to any questions
+2. Ensure any other maintainers of the collection are `@mentioned` in the discussion so they will receive update.
+3. Promptly reply to any questions.
 
 ## Existing request
 
