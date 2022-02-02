@@ -3,7 +3,7 @@ Requests to include new collections into the `ansible` package.
 
 We use GitHub's Discussion feature to track these requests.
 
-Deadlines for the `ansible` package can be found in the [`ansible` roadmaps](https://docs.ansible.com/ansible-core/devel/roadmap/ansible_core_roadmap_index.html)
+Deadlines for the `ansible` package can be found in the [`ansible` roadmaps](https://docs.ansible.com/ansible/devel/roadmap/ansible_roadmap_index.html)
 
 ## Existing request
 
