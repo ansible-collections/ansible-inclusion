@@ -3,7 +3,11 @@ Requests to include new collections into the `ansible` package.
 
 We use GitHub's Discussion feature to track these requests.
 
-Deadlines for the `ansible` package can be found in the [`ansible` roadmaps](https://docs.ansible.com/ansible/devel/roadmap/ansible_roadmap_index.html)
+## Timeline
+
+New collections can be included in every minor release of the `ansible` package. These happen roughly every three weeks.
+
+For new major releases (X.0.0), new collections have to be added before the feature freeze. If they miss feature freeze, they have to wait for the next minor release (X.1.0). Deadlines for the `ansible` package can be found in the [`ansible` roadmaps](https://docs.ansible.com/ansible/devel/roadmap/ansible_roadmap_index.html).
 
 ## Existing request
 
