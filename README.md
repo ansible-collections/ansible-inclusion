@@ -2,7 +2,7 @@
 
 This repository is used for requests to include new collections into the `ansible` package.
 
-We use GitHub [Discussion](https://github.com/ansible-collections/ansible-inclusion/discussions) feature to track these requests.
+We use GitHub [Discussions](https://github.com/ansible-collections/ansible-inclusion/discussions) feature to track these requests.
 
 ## Timeline
 
