@@ -1,13 +1,14 @@
 # ansible-inclusion
-Requests to include new collections into the `ansible` package.
 
-We use GitHub's Discussion feature to track these requests.
+This repository is used for requests to include new collections into the `ansible` package.
+
+We use GitHub [Discussion](https://github.com/ansible-collections/ansible-inclusion/discussions) feature to track these requests.
 
 ## Timeline
 
 New collections can be included in every minor release of the `ansible` package. These happen roughly every three weeks.
 
-For new major releases (X.0.0), new collections have to be added before the feature freeze. If they miss feature freeze, they have to wait for the next minor release (X.1.0). Deadlines for the `ansible` package can be found in the [`ansible` roadmaps](https://docs.ansible.com/ansible/devel/roadmap/ansible_roadmap_index.html).
+For new major releases (X.0.0), new collections have to be added before the feature freeze. If they miss feature freeze, they have to wait for the next minor release (X.1.0). Deadlines for the `ansible` package can be found in the [ansible roadmaps](https://docs.ansible.com/ansible/devel/roadmap/ansible_roadmap_index.html).
 
 ## Existing request
 
@@ -17,11 +18,12 @@ For new major releases (X.0.0), new collections have to be added before the feat
 ## Process
 
 All new collections submitted for inclusion MUST satisfy the [Collection Requirements](https://github.com/ansible-collections/overview/blob/main/collection_requirements.rst).
-If there are any questions, feel free to ask for clarifications in the discussion described below and / or in the `#ansible-community` IRC channel.
+
+If there are any questions, feel free to ask for clarifications in the discussion described below and/or in the `#ansible-community` [Matrix/IRC channel](https://docs.ansible.com/ansible/latest/community/communication.html#real-time-chat).
 
 1. Start a GitHub Discussion in the [new collection review category](https://github.com/ansible-collections/ansible-inclusion/discussions/new?category=new-collection-reviews).  Please copy the following into your initial message:
 ```
-Two or three sentence description of your collection
+Two or three sentence description of your collection.
 
 Ansible Galaxy: https://galaxy.ansible.com/NAMESPACE/COLLECTION
 GitHub: https://github.com/ORG/REPONAME
@@ -32,6 +34,5 @@ We meet [Collection Requirements](https://github.com/ansible-collections/overvie
 ```
 In case the repository is not on GitHub, please provide email addresses.
 
-2. Ensure any other maintainers of the collection are `@mentioned` in the discussion so they will receive update.
+2. Ensure any other maintainers of the collection are `@mentioned` in the discussion so they will receive updates.
 3. Promptly reply to any questions.
-
