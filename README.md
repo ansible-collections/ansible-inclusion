@@ -10,6 +10,8 @@ New collections can be included in every minor release of the `ansible` package.
 
 For new major releases (X.0.0), new collections have to be added before the feature freeze. If they miss feature freeze, they have to wait for the next minor release (X.1.0). Deadlines for the `ansible` package can be found in the [ansible roadmaps](https://docs.ansible.com/ansible/devel/roadmap/ansible_roadmap_index.html).
 
+[The Ansible docsite](https://docs.ansible.com/ansible/devel/collections/community/index.html), the `devel` version, will refer to a collection's documentation within a day after the collection inclusion is done. The `latest` version will show the references after the following Ansible release.
+
 ## Existing request
 
 * [New Collection reviews](https://github.com/ansible-collections/ansible-inclusion/discussions/categories/new-collection-reviews)
