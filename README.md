@@ -4,6 +4,10 @@ This repository is used for requests to include new collections into the `ansibl
 
 We use GitHub [Discussions](https://github.com/ansible-collections/ansible-inclusion/discussions) feature to track these requests.
 
+Regular community reviewers will be offered to join the [Ansible Community Steering Committee](https://docs.ansible.com/ansible/devel/community/steering/community_steering_committee.html).
+
+See the [Collection inclusion policy](https://docs.ansible.com/ansible/devel/community/steering/community_steering_committee.html#collection-inclusion-requests-workflow) to learn how the collection inclusion process works.
+
 ## Timeline
 
 New collections can be included in every minor release of the `ansible` package. These happen roughly every three weeks.
@@ -14,10 +18,11 @@ For new major releases (X.0.0), new collections have to be added before the feat
 
 ## Existing request
 
-* [New Collection reviews](https://github.com/ansible-collections/ansible-inclusion/discussions/categories/new-collection-reviews)
+* [New collection reviews](https://github.com/ansible-collections/ansible-inclusion/discussions/categories/new-collection-reviews)
+* [Second review needed](https://github.com/ansible-collections/ansible-inclusion/discussions/categories/second-review-needed)
 * [Resolved requests](https://github.com/ansible-collections/ansible-inclusion/discussions/categories/resolved-reviews)
 
-## Process
+## Submission process
 
 All new collections submitted for inclusion MUST satisfy the [Collection Requirements](https://github.com/ansible-collections/overview/blob/main/collection_requirements.rst).
 
@@ -38,3 +43,15 @@ In case the repository is not on GitHub, please provide email addresses.
 
 2. Ensure any other maintainers of the collection are `@mentioned` in the discussion so they will receive updates.
 3. Promptly reply to any questions.
+
+## Review process
+
+1. Choose a review request from the [New collection reviews](https://github.com/ansible-collections/ansible-inclusion/discussions/categories/new-collection-reviews) or [Second review needed](https://github.com/ansible-collections/ansible-inclusion/discussions/categories/second-review-needed) categories.
+2. Copy the [Review checklist](https://github.com/ansible-collections/overview/blob/main/collection_checklist.md) into the request.
+3. Go through the checklist:
+  * Mark bullet points as complete when a collection satisfies the requirements.
+  * If the collection does not satisfy a requirement, add `MUST FIX:` below the corresponding bullet point + an action needed from collection maintainers.
+  * If the collection satisfies a requirement but the implementation can be improved, add `SHOULD FIX:` + an action needed.
+  * If you have questions to maintainers, add `COMMENT: ` + your question.
+
+See the [complete example](https://github.com/ansible-collections/ansible-inclusion/discussions/24#discussioncomment-1485070).
