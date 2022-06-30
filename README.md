@@ -24,11 +24,11 @@ For new major releases (X.0.0), new collections have to be added before the feat
 
 ## Submission process
 
-All new collections submitted for inclusion MUST satisfy the [Collection Requirements](https://github.com/ansible-collections/overview/blob/main/collection_requirements.rst).
+All new collections submitted for inclusion MUST satisfy the [Collection Requirements](https://github.com/ansible-collections/overview/blob/main/collection_requirements.rst). Before submitting, please appreciate the time of volunteer reviewers by making sure your collection satisfies the requirements.
 
 If there are any questions, feel free to ask for clarifications in the discussion described below and/or in the `#ansible-community` [Matrix/IRC channel](https://docs.ansible.com/ansible/latest/community/communication.html#real-time-chat).
 
-1. Start a GitHub Discussion in the [new collection review category](https://github.com/ansible-collections/ansible-inclusion/discussions/new?category=new-collection-reviews).  Please copy the following into your initial message:
+1. Start a GitHub Discussion in the [new collection review category](https://github.com/ansible-collections/ansible-inclusion/discussions/new?category=new-collection-reviews).  Please copy the following into your initial message (only after you carefully read and make your collection satisfying the [Collection Requirements](https://github.com/ansible-collections/overview/blob/main/collection_requirements.rst)):
 ```
 Two or three sentence description of your collection.
 
