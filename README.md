@@ -36,6 +36,8 @@ This step is **optional** but it can significantly reduces the time for your col
   * The Steering Committee will handle your request with a high priority.
   * You will gain experience when reviewing someone else's collection. It will allow you to make your collection better before submitting it and will save your and reviewer's time and effort as there will probably be fewer issues to fix.
 
+You can also offer your help with reviewing other's requests after you submit your collection.
+
 2. Start a GitHub Discussion in the [new collection review category](https://github.com/ansible-collections/ansible-inclusion/discussions/new?category=new-collection-reviews).  Please copy the following into your initial message (only after you carefully read and make your collection satisfying the [Collection Requirements](https://github.com/ansible-collections/overview/blob/main/collection_requirements.rst)):
 ```
 Two or three sentence description of your collection.
