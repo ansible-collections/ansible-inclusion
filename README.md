@@ -33,8 +33,8 @@ If there are any questions, feel free to ask for clarifications in the discussio
   * [new collection reviews](https://github.com/ansible-collections/ansible-inclusion/discussions/categories/new-collection-reviews)
 
 This step is **optional** but it can significantly reduces the time for your collection to get in (finally it will depend on your collection's quality) because:
-  * The Steering Committee will handle your request with a high priority.
   * You will gain experience when reviewing someone else's collection. It will allow you to make your collection better before submitting it and will save your and reviewer's time and effort as there will probably be fewer issues to fix.
+  * The Steering Committee will handle your request with a higher priority.
 
 You can also offer your help with reviewing other's requests after you submit your collection.
 
