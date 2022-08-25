@@ -40,7 +40,7 @@ You can also offer your help with reviewing other's requests after you submit yo
 
 See the [Review process](#review-process) section to learn more.
 
-2. Start a GitHub Discussion in the [new collection review category](https://github.com/ansible-collections/ansible-inclusion/discussions/new?category=new-collection-reviews).  Please copy the following into your initial message (only after you carefully read and make your collection satisfying the [Collection Requirements](https://github.com/ansible-collections/overview/blob/main/collection_requirements.rst)):
+2. Start a GitHub Discussion in the [new collection review category](https://github.com/ansible-collections/ansible-inclusion/discussions/new?category=new-collection-reviews).  Please copy the following into your initial message (only after you carefully read and make your collection satisfying the [Collection Requirements](https://github.com/ansible-collections/overview/blob/main/collection_checklist.md)):
 ```
 Two or three sentence description of your collection.
 
