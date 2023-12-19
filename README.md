@@ -2,7 +2,7 @@
 
 [![Discuss on Matrix at #community:ansible.com](https://img.shields.io/matrix/community:ansible.com.svg?server_fqdn=ansible-accounts.ems.host&label=Discuss%20on%20Matrix%20at%20%23community:ansible.com&logo=matrix)](https://matrix.to/#/#community:ansible.com)
 
-This repository is used for requests to include new collections into the `ansible` package.
+This repository is used for requests to include new collections into the `ansible` package. Take a look at the [Ansible collection creator path](https://docs.ansible.com/ansible/devel/dev_guide/developing_collections_path.html#developing-collections-path) that covers important aspects your collection must have implemented in order to be considered a candidate for inclusion.
 
 We use GitHub [Discussions](https://github.com/ansible-collections/ansible-inclusion/discussions) feature to track these requests.
 
