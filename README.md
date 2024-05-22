@@ -42,7 +42,7 @@ You can also offer your help with reviewing other's requests after you submit yo
 
 See the [Review process](#review-process) section to learn more.
 
-2. Start a GitHub Discussion in the [new collection review category](https://github.com/ansible-collections/ansible-inclusion/discussions/new?category=new-collection-reviews).  Please copy the following into your initial message (only after you carefully read and make your collection satisfying the [Collection Requirements](https://github.com/ansible-collections/overview/blob/main/collection_checklist.md)):
+2. Start a GitHub Discussion in the [new collection review category](https://github.com/ansible-collections/ansible-inclusion/discussions/new?category=new-collection-reviews).  Please copy the following into your initial message (only after you carefully read and make your collection satisfying the [Collection Requirements](collection_checklist.md)):
 ```
 Two or three sentence description of your collection.
 
@@ -63,7 +63,7 @@ If you reviewed someone else's collection, please specify it too.
 ## Review process
 
 1. Choose a review request from the [New collection reviews](https://github.com/ansible-collections/ansible-inclusion/discussions/categories/new-collection-reviews) or [Second review needed](https://github.com/ansible-collections/ansible-inclusion/discussions/categories/second-review-needed) categories. Give a higher priority to collections whose maintainers reviewed someone else's collection (see discussion descriptions for this information).
-2. Copy the [Review checklist](https://github.com/ansible-collections/overview/blob/main/collection_checklist.md) into the request.
+2. Copy the [Review checklist](collection_checklist.md) into the request.
 3. Go through the checklist:
   * Mark bullet points as complete when a collection satisfies the requirements.
   * If the collection does not satisfy a requirement, add `MUST FIX:` below the corresponding bullet point + an action needed from collection maintainers.
