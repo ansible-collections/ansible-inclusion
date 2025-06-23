@@ -20,7 +20,7 @@ For new major releases (X.0.0), new collections have to be added before the feat
 
 ## Resolved requests
 
-Examples of resolved requests can be viewed in [discussions](https://github.com/ansible-collections/ansible-inclusion/discussions/categories/resolved-reviews)
+Examples of resolved requests can be viewed in [discussions](https://github.com/ansible-collections/ansible-inclusion/discussions/categories/resolved-reviews).
 
 ## Submission process
 
