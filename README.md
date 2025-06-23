@@ -18,11 +18,9 @@ For new major releases (X.0.0), new collections have to be added before the feat
 
 [The Ansible docsite](https://docs.ansible.com/ansible/devel/collections/community/index.html), the `devel` version, will refer to a collection's documentation within a day after the collection inclusion is done. The `latest` version will show the references after the following Ansible release.
 
-## Existing request
+## Resolved requests
 
-* [New collection reviews](https://github.com/ansible-collections/ansible-inclusion/discussions/categories/new-collection-reviews)
-* [Second review needed](https://github.com/ansible-collections/ansible-inclusion/discussions/categories/second-review-needed)
-* [Resolved requests](https://github.com/ansible-collections/ansible-inclusion/discussions/categories/resolved-reviews)
+Examples of resolved requests can be viewed in [discussions](https://github.com/ansible-collections/ansible-inclusion/discussions/categories/resolved-reviews)
 
 ## Submission process
 
