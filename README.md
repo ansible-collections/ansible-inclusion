@@ -1,6 +1,7 @@
 # ansible-inclusion
 
-[![Discuss on Matrix at #community:ansible.com](https://img.shields.io/matrix/community:ansible.com.svg?server_fqdn=ansible-accounts.ems.host&label=Discuss%20on%20Matrix%20at%20%23community:ansible.com&logo=matrix)](https://matrix.to/#/#community:ansible.com)
+> [!WARNING]
+> The inclusion of new collections in the Ansible community package has been **STOPPED** by the Ansible community steering committee's [decision](https://forum.ansible.com/t/vote-ended-2026-10-08-proposal-trim-and-restrict-the-ansible-community-package-down-to-a-steering-committee-selected-set/46339/13?u=andersson007) until new, **stricter** inclusion criteria are defined.
 
 This repository is used for requests to include new collections into the `ansible` package. Take a look at the [Ansible collection creator path](https://docs.ansible.com/ansible/devel/dev_guide/developing_collections_path.html#developing-collections-path) that covers important aspects your collection must have implemented in order to be considered a candidate for inclusion.
 
@@ -11,6 +12,9 @@ Regular community reviewers will be offered to join the [Ansible Community Steer
 See the [Collection inclusion policy](https://docs.ansible.com/ansible/devel/community/steering/community_steering_committee.html#collection-inclusion-requests-workflow) to learn how the collection inclusion process works.
 
 ## Timeline
+
+> [!WARNING]
+> The inclusion of new collections in the Ansible community package has been **STOPPED** by the Ansible community steering committee's [decision](https://forum.ansible.com/t/vote-ended-2026-10-08-proposal-trim-and-restrict-the-ansible-community-package-down-to-a-steering-committee-selected-set/46339/13?u=andersson007) until new, **stricter** inclusion criteria are defined.
 
 New collections can be included in every minor release of the `ansible` package. These happen roughly every three weeks.
 
@@ -23,6 +27,9 @@ For new major releases (X.0.0), new collections have to be added before the feat
 Examples of resolved requests can be viewed in [discussions](https://github.com/ansible-collections/ansible-inclusion/discussions/categories/resolved-reviews).
 
 ## Submission process
+
+> [!WARNING]
+> The inclusion of new collections in the Ansible community package has been **STOPPED** by the Ansible community steering committee's [decision](https://forum.ansible.com/t/vote-ended-2026-10-08-proposal-trim-and-restrict-the-ansible-community-package-down-to-a-steering-committee-selected-set/46339/13?u=andersson007) until new, **stricter** inclusion criteria are defined.
 
 All new collections submitted for inclusion MUST satisfy the [Collection Requirements](https://docs.ansible.com/ansible/devel/community/collection_contributors/collection_requirements.html). Before submitting, please appreciate the time of volunteer reviewers by making sure your collection satisfies the requirements.
 
